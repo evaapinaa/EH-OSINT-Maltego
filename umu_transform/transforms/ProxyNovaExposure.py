@@ -1,5 +1,5 @@
 # This transform checks if the Proxynova API relates an e-mail with a
-# password and returns a phrase that servers as an indicator of success
+# password and returns a phrase that serves as an indicator of success
 import html
 import re
 
